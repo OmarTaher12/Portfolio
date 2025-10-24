@@ -287,6 +287,10 @@ h1.projects-title {
     background-color: #c32a2a;
     transform: scale(0.97);
 }
+.contact-form p{
+    color: rgba(255, 0, 0, 0.47);
+    font-size: 14px;
+}
 .scrl-btn{
     height: 40px;
     width: 40px;
@@ -324,4 +328,5 @@ footer {
         max-width: 100%;
     }
 }
+
 
